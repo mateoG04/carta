@@ -5,10 +5,12 @@ let fontSize = 2
 
 let messages = [
   'Estas segura?',
-  'Piensalo bien',
+  'daaale si siempre sos curiosa',
+  'daaa que te haces ahora la que no :(',
+  'porfi mirá',
   'Piensalo muy bien',
   'Piensalo',
-  'Mira el otro botón',
+  'Mirá el otro botón',
   'Pero es algo bueno',
   'Te prometo que te va a gustar'
 ]
